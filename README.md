@@ -1,2 +1,2 @@
-# joooponte-page
+# joaoponte-page
 My personal web page ;)
